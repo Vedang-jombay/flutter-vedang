@@ -76,6 +76,9 @@ flutter:
     - assets/story4.jpg
     - assets/story5.jpg
     - assets/story6.jpg
+    - assets/like.png
+    - assets/share.png
+    - assets/comment.png
 
   # The following line ensures that the Material Icons font is
   # included with your application, so that you can use the icons in
